@@ -1,0 +1,18 @@
+<HTML> <HEAD>
+<TITLE>Управление разрывом строк </Title>
+</HEAD>
+<BODY>
+<marquee>Это моя учебная страница.</marquee>
+<H2>Меня зовут <kbd>Ольга. </kbd></H2>
+<H3 align="center">Я живу во <em>Владивостоке</em>.</H3>
+<H4 align="right">Моя маленькая родина - <font face="Academy" color="Red">Сахалин</font>. </H4>
+<H5 align=left>ДВГУ - ВУЗ в котором я работаю.</H5>
+<B>Здесь</B>
+<I>продемонстрированы</I>
+<Blink>различные</Blink>
+<U> способы </U>
+<KBD>управления </KBD>
+<FONT SIZE=5 COLOR=FF80C0>шрифтом:</FONT> его
+<FONT SIZE=5 COLOR=FF00FF>цветом</FONT> и
+<FONT SIZE=+3 COLOR=FF00FF>размером.</FONT>
+</BODY> </HTML>
